@@ -7,11 +7,12 @@
   "item.pragmatennoia.rigidity_essence" : "Rigidity Essence",
   "item.pragmatennoia.nature_essence" : "Nature Essence",
   "item.pragmatennoia.life_essence" : "Life Essence",
+  "item.pragmatennoia.chroma_source" : "Chroma Source",
   "item.pragmatennoia.raw_logium" : "Raw Logium",
   "item.pragmatennoia.logium_ingot" : "Logium Ingot",
 
   "block.pragmatennoia.logium_block" : "Logium Block",
   "block.pragmatennoia.logium_ore" : "Logium Ore",
   "block.pragmatennoia.deepslate_logium_ore" : "Deepslate Logium Ore",
-  "block.pragmatennoia.raw_logium_block" : "Raw Logium Ore"
+  "block.pragmatennoia.raw_logium_block" : "Raw Logium Block"
 }

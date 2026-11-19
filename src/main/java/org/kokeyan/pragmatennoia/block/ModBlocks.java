@@ -22,10 +22,10 @@ public class ModBlocks {
 
     //recordで作ったBlockDataクラスを使ってリストで登録
     private static final BlockData[] SIMPLE_STONE_BLOCK = {
-            new BlockData("logium_block", 1.0f , 2.5f, false),
-            new BlockData("logium_ore", 1.0f, 2.0f, false),
-            new BlockData("deepslate_logium_ore", 1.5f, 2.0f, false),
-            new BlockData("raw_logium_block", 1.0f, 2.0f, false),
+            new BlockData("logium_block", 2.0f , 2.5f, false),
+            new BlockData("logium_ore", 2.0f, 2.0f, false),
+            new BlockData("deepslate_logium_ore", 2.5f, 2.0f, false),
+            new BlockData("raw_logium_block", 2.0f, 2.0f, false),
     };
     // アイテム追加の場合、DeferredBlock<Block>型に変換しないといけないのでこの処理を入れている。
     // ちなみに[]をつけておくことでリスト形式にしている。

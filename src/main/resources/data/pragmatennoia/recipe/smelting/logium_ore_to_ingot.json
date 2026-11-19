@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "ingredient": {
-    "items": ["pragmatennoia:deepslate_logium_ore", "pragmatennoia:logium_ore"]
-  },
+  "ingredient": { "tag": "c:ores/logium" },
   "result": {
     "id": "pragmatennoia:logium_ingot",
     "count": 1
