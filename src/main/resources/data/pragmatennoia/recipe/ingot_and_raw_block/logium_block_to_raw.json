@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pragmatennoia:raw_logium_block"
+    }
+  ],
+  "result": {
+    "id": "pragmatennoia:raw_logium",
+    "count": 9
+  }
+}

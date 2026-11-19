@@ -1,0 +1,17 @@
+{
+  "creativetab.pragmatennoia.main": "Pragmatennoia - Main",
+  "item.pragmatennoia.concept_base" : "Concept Base",
+  "item.pragmatennoia.mineral_essence" : "Mineral Essence",
+  "item.pragmatennoia.chroma_essence" : "Chroma Essence",
+  "item.pragmatennoia.earth_essence" : "Earth Essence",
+  "item.pragmatennoia.rigidity_essence" : "Rigidity Essence",
+  "item.pragmatennoia.nature_essence" : "Nature Essence",
+  "item.pragmatennoia.life_essence" : "Life Essence",
+  "item.pragmatennoia.raw_logium" : "Raw Logium",
+  "item.pragmatennoia.logium_ingot" : "Logium Ingot",
+
+  "block.pragmatennoia.logium_block" : "Logium Block",
+  "block.pragmatennoia.logium_ore" : "Logium Ore",
+  "block.pragmatennoia.deepslate_logium_ore" : "Deepslate Logium Ore",
+  "block.pragmatennoia.raw_logium_block" : "Raw Logium Ore"
+}

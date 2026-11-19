@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "pragmatennoia:raw_logium"
+  },
+  "result": {
+    "id": "pragmatennoia:logium_ingot",
+    "count": 1
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}
