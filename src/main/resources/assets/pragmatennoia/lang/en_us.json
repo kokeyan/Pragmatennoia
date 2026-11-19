@@ -10,9 +10,23 @@
   "item.pragmatennoia.chroma_source" : "Chroma Source",
   "item.pragmatennoia.raw_logium" : "Raw Logium",
   "item.pragmatennoia.logium_ingot" : "Logium Ingot",
+  "item.pragmatennoia.mineral_pragma" : "Mineral Pragma",
+  "item.pragmatennoia.chroma_pragma" : "Chroma Pragma",
+  "item.pragmatennoia.earth_pragma" : "Earth Pragma",
+  "item.pragmatennoia.rigidity_pragma" : "Rigidity Pragma",
+  "item.pragmatennoia.nature_pragma" : "Nature Pragma",
+  "item.pragmatennoia.life_pragma" : "Life Pragma",
+  "item.pragmatennoia.steel_ingot" : "Steel Ingot",
+  "item.pragmatennoia.limestone_dust" : "Limestone Dust",
+  "item.pragmatennoia.pig_iron" : "Pig Iron",
+  "item.pragmatennoia.coke" : "Coke",
+  "item.pragmatennoia.steel_nugget" : "Steel Nugget",
+  "item.pragmatennoia.logium_nugget" : "Logium Nugget",
 
   "block.pragmatennoia.logium_block" : "Logium Block",
   "block.pragmatennoia.logium_ore" : "Logium Ore",
   "block.pragmatennoia.deepslate_logium_ore" : "Deepslate Logium Ore",
-  "block.pragmatennoia.raw_logium_block" : "Raw Logium Block"
+  "block.pragmatennoia.raw_logium_block" : "Raw Logium Block",
+  "block.pragmatennoia.steel_block" : "Steel Block",
+  "block.pragmatennoia.limestone" : "Limestone"
 }

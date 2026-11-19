@@ -25,15 +25,32 @@ public class ModItems {
     // シンプルアイテム一覧登録
     private static final String[] SIMPLE_ITEM_NAMES = {
             "concept_base",
+            "chroma_source",
+            // essence
             "mineral_essence",
             "chroma_essence",
-            "chroma_source",
             "earth_essence",
             "rigidity_essence",
             "nature_essence",
             "life_essence",
+            // pragmatennoia
+            "mineral_pragma",
+            "chroma_pragma",
+            "earth_pragma",
+            "rigidity_pragma",
+            "nature_pragma",
+            "life_pragma",
+            // raw+ingot+nugget
             "raw_logium",
-            "logium_ingot"
+            "logium_ingot",
+            "logium_nugget",
+            // steel
+            "steel_ingot",
+            "steel_nugget",
+            "limestone_dust",
+            "coke",
+            "pig_iron"
+
 
     };
 

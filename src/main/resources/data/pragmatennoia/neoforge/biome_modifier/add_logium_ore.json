@@ -1,6 +1,10 @@
 {
   "type": "neoforge:add_features",
   "biomes": "#minecraft:is_overworld",
-  "features": "pragmatennoia:logium_ore_placed",
+  "features": [
+    "pragmatennoia:logium_ore_upper_placed",
+    "pragmatennoia:logium_ore_middle_placed",
+    "pragmatennoia:logium_ore_small_placed"
+  ],
   "step": "underground_ores"
 }
