@@ -26,15 +26,14 @@ public class ModItems {
     private static final String[] SIMPLE_ITEM_NAMES = {
             "concept_base",
             "chroma_source",
+            "mineral_source",
             // essence
-            "mineral_essence",
             "chroma_essence",
             "earth_essence",
             "rigidity_essence",
             "nature_essence",
             "life_essence",
             // pragmatennoia
-            "mineral_pragma",
             "chroma_pragma",
             "earth_pragma",
             "rigidity_pragma",
