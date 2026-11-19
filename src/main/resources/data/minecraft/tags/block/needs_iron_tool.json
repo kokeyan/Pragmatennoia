@@ -1,6 +1,8 @@
 {
   "values": [
     "pragmatennoia:logium_ore",
-    "pragmatennoia:deepslate_logium_ore"
+    "pragmatennoia:deepslate_logium_ore",
+    "pragmatennoia:raw_logium_block",
+    "pragmatennoia:logium_block"
   ]
 }
